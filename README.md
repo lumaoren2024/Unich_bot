@@ -1,4 +1,4 @@
-# Unich_bot
+# Unich 项目
 Unich Bot 项目
 
 推荐码：FIOIOC
@@ -13,4 +13,12 @@ Unich Bot 项目
 
 注册：https://unich.com/en/
 
-教程：https://x.com/ariel_sands_dan/status/1868864971846885625
+# Unich Bot 2.3 使用教程
+1、抓取token，放到config/tokens.txt里面
+
+![image](https://github.com/user-attachments/assets/99fd4330-3757-4a0f-901a-7ee5db0953d9)
+
+2、代理config/proxy.txt按照你的代理池或者代理写入
+
+
+
